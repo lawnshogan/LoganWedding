@@ -1,0 +1,29 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  font-family: 'Rubik', sans-serif;
+}
+p {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 100;
+  font-size: 18px
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 64px;
+}
+h2 {
+  font-weight: 100;
+}
+* {
+  box-sizing: border-box;
+}
