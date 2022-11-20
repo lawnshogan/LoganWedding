@@ -3,7 +3,7 @@ import Head from 'next/head';
 import NavDrawer from '../components/NavDrawer/NavDrawer';
 import Details from '../components/Details/Details';
 import Footer from '../components/Footer/Footer';
-
+test
 export default function details() {
   return (
     <>
